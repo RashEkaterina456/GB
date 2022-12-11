@@ -22,4 +22,3 @@ public class ArrayMethodsGeneric <T> {
         System.out.println();
     }
 }
-
